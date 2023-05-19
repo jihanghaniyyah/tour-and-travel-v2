@@ -1,0 +1,21 @@
+.footer {
+    align-items: center;
+    background-color: #254e71;
+    bottom: 0;
+    color: white;
+    left: 0;
+    margin: 0;
+    position: static;
+    text-align: left;
+    width: 100%;
+}
+.footer-logo {
+    height: 117px;
+    margin-left: 100px;
+    width: 117px;
+}
+.footer-logo-title {
+    align-items: center;
+    color: white;
+    margin-left: 50px;
+}

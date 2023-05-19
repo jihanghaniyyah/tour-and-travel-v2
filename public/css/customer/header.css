@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #254e71;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+}
+.navbar-brand,
+.nav-item > .nav-link.active {
+    color: white;
+}

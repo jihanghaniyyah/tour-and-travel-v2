@@ -1,0 +1,23 @@
+.btn-book {
+    background-color: #00bbcc;
+    border: none;
+    color: white;
+}
+
+.button-card {
+    color: black;
+    text-decoration: none;
+}
+
+.card-image {
+    border: none;
+}
+
+.card-price {
+    color: #2a74b3;
+    font-size: 22px;
+}
+
+.title {
+    align-items: center;
+}

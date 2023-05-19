@@ -1,0 +1,27 @@
+.btn-book {
+    background-color: #00bbcc;
+    border: none;
+    color: white;
+}
+
+.btn-search {
+    background-color: #00bbcc;
+    border: none;
+    height: min-content;
+}
+
+.card {
+    border: none;
+}
+
+.destination-search {
+    background-color: #f5f6fa;
+    width: 100%;
+}
+
+.destination-form {
+    align-items: center;
+    position: relative;
+    display: flex;
+    width: 500px;
+}

@@ -46,16 +46,6 @@
                             <td>Nama Paket</td>
                             <td>Labuan Bajo Tour</td>
                         </tr>
-                        <tr>
-                            <td>Tanggal Berangkat</td>
-                            <td>
-                                <form>
-                                    <div class="mb-3">
-                                        <input type="date" class="form-control" id="dateDeparture" name="dateDeparture">
-                                    </div>
-                                </form>
-                            </td>
-                        </tr>
                     </tbody>
                 </table>
             </div>

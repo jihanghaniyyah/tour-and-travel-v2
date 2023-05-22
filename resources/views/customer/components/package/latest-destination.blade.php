@@ -4,7 +4,7 @@
         <div class="card-body">
             <h5>Jatim Park</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>
     <div class="card mb-3" style="width: 18rem;">
@@ -12,7 +12,7 @@
         <div class="card-body">
             <h5>Danau Toba</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>
     <div class="card mb-3" style="width: 18rem;">
@@ -20,7 +20,7 @@
         <div class="card-body">
             <h5>Pantai Pandawa</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>          
     <div class="card mb-3" style="width: 18rem;">
@@ -28,7 +28,7 @@
         <div class="card-body">
             <h5>Gunung Bromo</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>                  
     <div class="card mb-3" style="width: 18rem;">
@@ -36,7 +36,7 @@
         <div class="card-body">
             <h5>Jatim Park</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>
     <div class="card mb-3" style="width: 18rem;">
@@ -44,7 +44,7 @@
         <div class="card-body">
             <h5>Danau Toba</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>
     <div class="card mb-3" style="width: 18rem;">
@@ -52,7 +52,7 @@
         <div class="card-body">
             <h5>Pantai Pandawa</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>          
     <div class="card mb-3" style="width: 18rem;">
@@ -60,7 +60,7 @@
         <div class="card-body">
             <h5>Gunung Bromo</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="/destination" class="btn btn-book btn-primary">Book Now</a>
+            <a href="/destination" class="btn btn-book btn-primary">Detail</a>
         </div>
     </div>                  
 </div>

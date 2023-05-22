@@ -50,7 +50,7 @@
                 </table>
             </div>
             <div class="d-flex justify-content-center">
-                <a href="/destination-detail" class="btn btn-book btn-primary">Book Now</a>
+                <a href="/checkout" class="btn btn-book btn-primary">Book Now</a>
             </div>
         </div>      
     </div>
